@@ -181,7 +181,7 @@ Continuons et mettons un peu de couleur à tout cela grâce à la propriété _b
 
 ~~~
 
-Voilà, vous avez votre petite souris qui va faire office de logo de votre prochain site.
+Voilà, vous avez votre petite souris qui va faire office de logo (provisoire) de votre prochain site.
 
 
 

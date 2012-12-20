@@ -1,7 +1,7 @@
 tryandlearn
 ===========
 
-HTML courses for newbies
+HTML courses for newbies.
 
 
 ## Bienvenue
